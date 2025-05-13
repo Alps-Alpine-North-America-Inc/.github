@@ -31,7 +31,7 @@ We’re committed to transparency and collaboration where possible.
 
 If you're a partner or developer interested in working with us or contributing, feel free to:
 
-- Reach out via [our website](https://www.alpsalpine.com/e/)
+- Reach out via [our website](https://www.alpsalpine.com/en-us/)
 - Contact our North America R&D division directly
 - Open issues or pull requests where applicable
 
