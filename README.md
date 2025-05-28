@@ -1,5 +1,5 @@
 # Welcome GitHub of Alps Alpine North America Inc.
-![Alps Alpine Logo](https://github.com/Alps-Alpine-North-America.png)
+![Alps Alpine Logo](https://github.com/Alps-Alpine-North-America-Inc.png)
 ## 🚘 About Us
 
 **Alps Alpine North America**, a division of the global **Alps Alpine Group**, develops cutting-edge electronic components, systems, and software solutions for:
