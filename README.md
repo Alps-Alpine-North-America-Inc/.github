@@ -46,4 +46,4 @@ If you're a partner or developer interested in working with us or contributing, 
 
 ---
 
-© Alps Alpine North America – All rights reserved.
+© Alps Alpine North America Inc. – All rights reserved.
