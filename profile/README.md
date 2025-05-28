@@ -1,4 +1,4 @@
-# Welcome GitHub of Alps Alpine North America Inc.
+# Welcome GitHub of Alps Alpine North America, Inc.
 ![Alps Alpine Logo](https://github.com/Alps-Alpine-North-America-Inc.png)
 ## 🚘 About Us
 
