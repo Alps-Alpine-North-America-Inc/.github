@@ -42,7 +42,7 @@ If you're a partner or developer interested in working with us or contributing, 
 ## 🌐 Learn More
 
 - 🌍 [Alps Alpine Global](https://www.alpsalpine.com/e/)
-- 🇺🇸 [Alps Alpine North America](https://www.alpsalpine.com/e/company/globalnetwork/america.html)
+- 🇺🇸 [Alps Alpine North America](https://www.alpsalpine.com/en-us/)
 
 ---
 
